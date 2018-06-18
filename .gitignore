@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/DumpClipboard/DumpClipboard/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+/src/DumpClipboard/DumpClipboard/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+/src/DumpClipboard/DumpClipboard/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+/src/DumpClipboard/DumpClipboard/obj/Debug/DumpClipboard.pdb
+/src/DumpClipboard/DumpClipboard/obj/Debug/DumpClipboard.exe
+/src/DumpClipboard/DumpClipboard/obj/Debug/DumpClipboard.csprojResolveAssemblyReference.cache
+/src/DumpClipboard/DumpClipboard/obj/Debug/DumpClipboard.csproj.FileListAbsolute.txt
+/src/DumpClipboard/DumpClipboard/obj/Debug/DumpClipboard.csproj.CoreCompileInputs.cache
+/src/DumpClipboard/DumpClipboard/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/src/DumpClipboard/DumpClipboard/obj/Debug
+/src/DumpClipboard/DumpClipboard/bin/Debug/DumpClipboard.pdb
+/src/DumpClipboard/DumpClipboard/bin/Debug/DumpClipboard.exe.config
+/src/DumpClipboard/DumpClipboard/bin/Debug/DumpClipboard.exe
+/src/DumpClipboard/DumpClipboard/bin/Debug
+/src/DumpClipboard/.vs/DumpClipboard/v15
